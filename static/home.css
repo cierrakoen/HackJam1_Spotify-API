@@ -1,0 +1,35 @@
+body{
+    background-color:#f58092;
+}
+.bubble {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20 20;
+    margin: auto;
+    width: 75%;
+    border: 3px solid #f9a0ae;
+    background-color:#b4f9ab;
+    border-radius: 25px;
+    text-align: center;
+    vertical-align: middle;
+}
+.spotifyAPI {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 100 100;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #f9a0ae;
+    background-color:#b4f9ab;
+    border-radius: 25px;
+    text-align: center;
+    vertical-align: middle;
+    bottom:100px;
+}
+.songListLink {
+    text-align: center;
+    width:30%;
+    padding:10 10;
+    margin:auto;
+    background-color: #b4f9ab;
+    border: 3px solid #f9a0ae;
+    border-radius: 25px;
+} 
